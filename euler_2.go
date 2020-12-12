@@ -37,6 +37,7 @@ func main(){
 			break
 		}
 		}
+	// print cumulative sum
 	fmt.Println(sum)	
 		
 	}
