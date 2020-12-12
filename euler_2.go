@@ -28,10 +28,10 @@ func main(){
 			next_b := a + b
 			// holder for previous fib num
 			next_a := b
-			// move to next fib num
+			// assign a to  next fib num
 			a = next_a
 
-			// move to next fib num
+			// assign b to next fib num
 			b = next_b 
 		} else {
 			break
